@@ -1,0 +1,5 @@
+파이썬
+LLM
+RAG피아노
+database
+동아AI
